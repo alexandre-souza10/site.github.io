@@ -12,7 +12,7 @@ Na pagina conseguimos digitar o nome , o E-mail , e uma breve descrição no cam
 
 - O Projeto tem a funcionalidade de mostrar uma tela simples , mas funcional , em um ambiente Front-End.
 
-- A seguir temos um video onde mostramos um exemplo de como funciona a pagina de Login do Facebook.
+- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina de Login do Facebook.
 <br></br>
 
  Video:
