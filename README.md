@@ -14,6 +14,7 @@ On the page we can type the name, E-mail, and a brief description in the field y
 - The Project has the functionality of showing a simple but functional screen in a Front-End environment.
 
 - Next we have a small instructional video, where we show an example of how the Facebook Login page works.
+
 <br></br>
 
  Video:
@@ -22,9 +23,10 @@ https://github.com/alexandre-souza10/site.github.io/assets/74196527/abcf2ef0-682
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - Visual Studio Code
+
 <br></br>
 
 #### Author: 
