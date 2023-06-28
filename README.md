@@ -1,18 +1,19 @@
-<h1 align="center"> Login do Facebook</h1> 
+<h1 align="center"> Login Facebook</h1> 
 
 
-#### Pagina Inicial do Projeto: 
+### Project Home Page: 
 ![Screenshot_1](https://github.com/alexandre-souza10/site.github.io/assets/74196527/bb8b3054-aae3-483b-9eae-3109b5099621)
 
-### Link de acesso ao Projeto: https://alexandre-souza10.github.io/site.github.io/
+### Project access link: https://alexandre-souza10.github.io/site.github.io/
 <br></br>
-## Descrição do projeto:
-- Nesse Projeto foi desenvolvido uma pagina basica Front-End , para fazer o Login do Facebook , utilizando o HTML para o seu desenvolvimento.
-Na pagina conseguimos digitar o nome , o E-mail , e uma breve descrição no campo sua mensagem se for necessario,e temos um botão Enviar estatico.
 
-- O Projeto tem a funcionalidade de mostrar uma tela simples , mas funcional , em um ambiente Front-End.
+## Project Description:
+- In this Project, a basic Front-End page was developed, to make the Facebook Login, using HTML for its development.
+On the page we can type the name, E-mail, and a brief description in the field your message if necessary, and we have a static Send button.
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina de Login do Facebook.
+- The Project has the functionality of showing a simple but functional screen in a Front-End environment.
+
+- Next we have a small instructional video, where we show an example of how the Facebook Login page works.
 <br></br>
 
  Video:
@@ -20,11 +21,12 @@ Na pagina conseguimos digitar o nome , o E-mail , e uma breve descrição no cam
 https://github.com/alexandre-souza10/site.github.io/assets/74196527/abcf2ef0-6829-4d00-91e7-a2ba62c6cc7e
 
 <br></br>
-## Liguagens e ferramentas utilizadas
+
+## Languages ​​and tools used:
 - HTML
 - Visual Studio Code
 <br></br>
 
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
 
