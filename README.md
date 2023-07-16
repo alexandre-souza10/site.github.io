@@ -29,6 +29,6 @@ https://github.com/alexandre-souza10/site.github.io/assets/74196527/abcf2ef0-682
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**
 
